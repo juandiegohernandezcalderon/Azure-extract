@@ -9,11 +9,11 @@ from requests.auth import _basic_auth_str
 # ==========================
 
 # URL base y proyecto (a partir de tu enlace)
-organization = "https://periferiaitgrouptfs.visualstudio.com"
-project = "Capacitacion"
+organization = "https://dev.azure.com/diego-dev"
+project = "Azure-Data-Automation"
 
 # Ruta al archivo Excel con los campos
-excel_file = "Copia de Modelado de datos.xlsx"
+excel_file = "modelo_datos_azure.xlsx"
 
 # ==========================
 # TOKEN PERSONAL (PAT)
